@@ -13,4 +13,4 @@ function ss() {
  
 }
 document.querySelector(".bttn").addEventListener("click",ss);
-console.log('Hi i am hitesh');
+// console.log('Hi i am hitesh');
